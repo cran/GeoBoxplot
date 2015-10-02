@@ -1,0 +1,8 @@
+847bf5b6b24a57d313f8fa79cf419ea2 *DESCRIPTION
+60534fc7284885bbbd2930d8d99b9177 *NAMESPACE
+5483d50e97f1c4dcb69f310c05e0fab1 *R/GeoBoxplot.R
+52e789e0318ba486b212573609018a97 *data/pdens2000.rda
+3e902c1a039e65b24286edbb7c819f1b *man/boxplot_geog.Rd
+7ee32eacbd171f28e9850bc1a345abfa *man/boxplot_geog_example.Rd
+558dad64b3206cf6928017308941baa0 *man/pdens2000.Rd
+d1d13ad32e98c034a9dff617826ec86d *man/summary_geog.Rd

@@ -1,0 +1,4 @@
+export(boxplot_geog)
+export(boxplot_geog_example)
+export(summary_geog)
+importFrom("graphics", "arrows", "lines", "plot", "points", "text")
